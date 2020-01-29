@@ -3,6 +3,7 @@
 ## Projeto utilizado para o desafio da Arquivei
 
 O projeto foi desenvolvido para realizar a integração com os arquivos de NFe, nesse contexto foi utilizado o Hangfire para realizar a execução da integração em background, desse modo, podemos configurar a execução automaticamente em determinados períodos de tempo.
+
 Também foi disponibilizado uma API REST para consultar os dados das NFe que foram importadas, para simplificar a documentação da API foi utilizado o Swagger. 
 
 
