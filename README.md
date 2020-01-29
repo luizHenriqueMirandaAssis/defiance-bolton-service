@@ -17,6 +17,7 @@ Também foi disponibilizado uma API REST para consultar os dados das NFe que for
 - Hangfire
 - Entity Framework Core
 - ASP.NET Core 3.1
+- Flurl
 
 ### Padrões utilizados
 - SOLID
