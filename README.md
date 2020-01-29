@@ -2,7 +2,7 @@
 
 ## Projeto utilizado para o desafio na Arquivei
 
-## Modelagem projeto
+## Diagrama da modelagem do projeto
 
 ![alt text](https://docs.google.com/uc?id=10Aw_iGk6CCNKszYs63UfyKlA_YnAzp83)
 
