@@ -1,6 +1,6 @@
 # defiance-bolton-service
 
-## Projeto utilizado para o desafio na Arquivei
+## Projeto utilizado para o desafio da Arquivei
 
 ## Diagrama da modelagem do projeto
 
