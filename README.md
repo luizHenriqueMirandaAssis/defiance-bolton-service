@@ -1,6 +1,6 @@
 # defiance-bolton-service
 
-## Projeto utilizado para o Desafio na Arquivei
+## Projeto utilizado para o desafio na Arquivei
 
 ### Frameworks utilizados  
 - Swagger
