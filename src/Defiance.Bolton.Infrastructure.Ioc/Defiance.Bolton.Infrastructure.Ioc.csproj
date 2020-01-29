@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="MediatR.Extensions.Microsoft.DependencyInjection" Version="8.0.0" />
+    <PackageReference Include="Microsoft.Extensions.DependencyInjection" Version="3.1.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Defiance.Bolton.Application\Defiance.Bolton.Application.csproj" />
+    <ProjectReference Include="..\Defiance.Bolton.Domain\Defiance.Bolton.Domain.csproj" />
+    <ProjectReference Include="..\Defiance.Bolton.Infrastructure.Arquivei\Defiance.Bolton.Infrastructure.Arquivei.csproj" />
+    <ProjectReference Include="..\Defiance.Bolton.Infrastructure.Data\Defiance.Bolton.Infrastructure.Data.csproj" />
+  </ItemGroup>
+
+</Project>
