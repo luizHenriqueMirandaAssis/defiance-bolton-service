@@ -4,7 +4,7 @@
 
 ## Modelagem projeto
 
-![alt text](https://drive.google.com/open?id=10Aw_iGk6CCNKszYs63UfyKlA_YnAzp83)
+![alt text](https://docs.google.com/uc?id=10Aw_iGk6CCNKszYs63UfyKlA_YnAzp83)
 
 ### Frameworks utilizados  
 - Swagger
