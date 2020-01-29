@@ -2,6 +2,10 @@
 
 ## Projeto utilizado para o desafio na Arquivei
 
+## Modelagem projeto
+
+![alt text](https://drive.google.com/open?id=10Aw_iGk6CCNKszYs63UfyKlA_YnAzp83)
+
 ### Frameworks utilizados  
 - Swagger
 - Hangfire
@@ -10,4 +14,4 @@
 
 ### Padrões utilizados
 - SOLID
-- Clean Code
+- Clean Architecture
