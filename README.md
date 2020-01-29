@@ -24,3 +24,9 @@ Também foi disponibilizado uma API REST para consultar os dados das NFe que for
 
 ### Banco de dados
 - SQl Server
+
+### Propostas futuras
+- Adicionar testes 
+- Adicionar logs
+- Adicionar docker-compose
+- Criar estratégia de mensageria para o processamento paralelo, com isso, deve-se ganhar maior performance e semântica no processo. 
