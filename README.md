@@ -15,3 +15,6 @@
 ### Padrões utilizados
 - SOLID
 - Clean Architecture
+
+### Banco de dados
+- SQl Server
